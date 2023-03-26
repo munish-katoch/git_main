@@ -1,0 +1,3 @@
+[submodule "external"]
+	path = external
+	url = git@github.com:munish-katoch/git_submodule.git
